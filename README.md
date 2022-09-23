@@ -23,4 +23,4 @@
 
 
 ## **Credits:**
-[Lunar](https://github.com/LunarTaku/fancy-help-command) The Official Wwner
+[Lunar](https://github.com/LunarTaku/fancy-help-command) The Official Owner
