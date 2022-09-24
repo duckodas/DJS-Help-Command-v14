@@ -32,7 +32,7 @@ module.exports = {
           .setDescription(`\`\`\`${commands}\`\`\``)
           .setColor("Blurple")
           .addFields({
-            name: `${config.emoji_StarIcon} Command Count`,
+            name: `Command Count`,
             value: `${commands.length - 1} command(s)`,
           });
 
